@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99ebd3bb-5b80-43ba-b7c1-ddebd5fea73c" name="Default Changelist" comment="密码登录">
-      <change afterPath="$PROJECT_DIR$/.idea/Helloword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/text1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/txet2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/密码.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99ebd3bb-5b80-43ba-b7c1-ddebd5fea73c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/密码.html" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/密码.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +71,20 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/密码.html">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#140#146#0" expanded="true" />
+                <element signature="e#147#153#0" expanded="true" />
+                <element signature="e#154#160#0" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -119,6 +127,7 @@
         <option value="$PROJECT_DIR$/text1.html" />
         <option value="$PROJECT_DIR$/txet2.html" />
         <option value="$PROJECT_DIR$/密码.html" />
+        <option value="$PROJECT_DIR$/.idea/密码.html" />
       </list>
     </option>
   </component>
@@ -193,7 +202,7 @@
       <workItem from="1561531876075" duration="4311000" />
       <workItem from="1561595293894" duration="12571000" />
       <workItem from="1561619238282" duration="114000" />
-      <workItem from="1561619403434" duration="2602000" />
+      <workItem from="1561619403434" duration="5014000" />
     </task>
     <task id="LOCAL-00001" summary="第一张网页">
       <created>1561532047515</created>
@@ -230,11 +239,18 @@
       <option name="project" value="LOCAL" />
       <updated>1561621823038</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="密码登录">
+      <created>1561622054588</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561622054589</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19936000" />
+    <option name="totallyTimeSpent" value="22348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -355,7 +371,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/密码.html">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#140#146#0" expanded="true" />
+            <element signature="e#147#153#0" expanded="true" />
+            <element signature="e#154#160#0" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
